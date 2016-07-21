@@ -3,20 +3,17 @@
 	/*
 	 * uShare
 	 *
-	 * uShare, sosyal medya paylaþým kodlarýný kolayca ulaþmanýzý saðlar.
-	 *
+	 * uShare, sosyal medya paylaÃ¾Ã½m kodlarÃ½nÃ½ kolayca ulaÃ¾manÃ½zÃ½ saÃ°lar.
 	 * Detaylar: {@link https://github.com/ugurkilci/uShare}
-	 *
 	 *******************
-	 *
-	 * Uður KILCI
+	 * Ugur KILCI
 	 *
 	 * @ugurkilci Github
 	 * @ugur2nd Twitter
 	 * uShare 1.0
 	 */
 	
-	## TR:/ Sosyal Medya Paylaþým Kodlarý Baþla
+	## TR:/ Sosyal Medya PaylaÃ¾Ã½m KodlarÃ½ BaÃ¾la
 	## EN:/ Social Media Share Codes Start
 	
 	function ushare($usharea) {
@@ -29,6 +26,6 @@
 	}
 	
 	## EN:/ Social Media Share Codes Finish
-	## TR:/ Sosyal Medya Paylaþým Kodlarý Bitiþ
+	## TR:/ Sosyal Medya PaylaÃ¾Ã½m KodlarÃ½ BitiÃ¾
 
 ?>
