@@ -5,7 +5,6 @@ uShare, sosyal medya paylaşım kodlarını kolayca ulaşmamızı sağlar.
 Sayfaya önce uShare'yi include edin.
 
 Daha sonra uShare kısaltma kodları ile sosyal medya paylaşım kodlarını kolayca kullanabilirsiniz.
-<code><pre> <?php echo ushare("fb"); ?></pre></code>
 
 Örnek:
 Facebook Paylaşım Kodu:
