@@ -8,7 +8,8 @@ Daha sonra uShare kısaltma kodları ile sosyal medya paylaşım kodlarını kol
 <code><pre> <?php echo ushare("fb"); ?></pre></code>
 
 Örnek:
-<code><pre> <a href="<?php echo ushare("fb"); ?>">facebook share</a></pre></code>
+Facebook Paylaşım Kodu:
+<code><pre><?php echo ushare("fb"); ?> "></pre></code>
 
 uShare Kısaltmaları:
 facebook (fb), Twitter (twt), Google+ (gpls), Pinterest(pin), LinkedIN (lin), VK (vk), Okru (okru), StumbleUpon (su), Reddit (rddt), Tumblr (tmblr), Blogger (blggr)
