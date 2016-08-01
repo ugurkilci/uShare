@@ -14,4 +14,4 @@ uShare Kısaltmaları:
 facebook (fb), Twitter (twt), Google+ (gpls), Pinterest(pin), LinkedIN (lin), VK (vk), Okru (okru), StumbleUpon (su), Reddit (rddt), Tumblr (tmblr), Blogger (blggr)
 
 Eğer koda info yazarsanız, uShare Github linki çıkar.
-<code><pre> <?php echo ushare("info"); ?>  </pre></code>
+<code><pre> <?php echo ushare("i.n.f.o"); ?>  </pre></code>
