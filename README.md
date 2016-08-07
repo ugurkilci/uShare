@@ -15,3 +15,9 @@ facebook (fb), Twitter (twt), Google+ (gpls), Pinterest(pin), LinkedIN (lin), VK
 
 Eğer koda info yazarsanız, uShare Github linki çıkar.
 <code><pre> <?php echo ushare("i.n.f.o"); ?>  </pre></code>
+
+Sürüm 1.2 de renk kodları kullanımı için aşağıdaki kodu style tagları arasına yapıştırın.
+<code><pre> <?php echo $ushstyle; ?>  </pre></code>
+Daha sonra <pre>class=""</pre> içine 
+-ush- ile başlayarak ushare kısaltmalarını yazın.
+<code><pre> class="ushlin"  </pre></code>
