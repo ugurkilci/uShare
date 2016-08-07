@@ -13,7 +13,7 @@
 	 *
 	 * @ugurkilci Github
 	 * @ugur2nd Twitter
-	 * uShare 1.0
+	 * uShare 1.2
 	 */
 	
 	## TR:/ Sosyal Medya Paylaşım Kodları Başla
@@ -31,4 +31,13 @@
 	## EN:/ Social Media Share Codes Finish
 	## TR:/ Sosyal Medya Paylaşım Kodları Bitiş
 
+	/* ******************* */
+	
+	## TR:/ Sosyal Medya Renk Kodları Başla
+	## EN:/ Social Media Color Codes Start
+	
+	$ushstyle = ".ushfb{color:#007FFF;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushfb:hover{color:#0066CC;text-decoration:none;}.ushfb:focus{color:#004C99;text-decoration:none;}.ushtwt{color:#00BFFF;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushtwt:hover{color:#0099CC;text-decoration:none;}.ushtwt:focus{color:#007299;text-decoration:none;}.ushgpls{color:#EA1A22;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushgpls:hover{color:#CC1821;text-decoration:none;}.ushgpls:focus{color:#991219;text-decoration:none;}.ushpin{color:#C52C26;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushpin:hover{color:#99221E;text-decoration:none;}.ushpin:focus{color:#661514;text-decoration:none;}.ushlin{color:#006EB1;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushlin:hover{color:#00507F;text-decoration:none;}.ushlin:focus{color:#002033;text-decoration:none;}.ushvk{color:#007FFF;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushvk:hover{color:#007FFF;text-decoration:none;}.ushvk:focus{color:#007FFF;text-decoration:none;}.ushokru{color:#007FFF;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushokru:hover{color:#007FFF;text-decoration:none;}.ushokru:focus{color:#007FFF;text-decoration:none;}.ushsu{color:#007FFF;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushsu:hover{color:#007FFF;text-decoration:none;}.ushsu:focus{color:#007FFF;text-decoration:none;}.ushrddt{color:#007FFF;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushrddt:hover{color:#007FFF;text-decoration:none;}.ushrddt:focus{color:#007FFF;text-decoration:none;}.ushtmblr{color:#1B3D82;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushtmblr:hover{color:#153066;text-decoration:none;}.ushtmblr:focus{color:#0A1833;text-decoration:none;}.ushblggr{color:#FF6600;display:inline-block;text-align:center;vertical-align:middle;cursor:pointer;}.ushblggr:hover{color:#CC5100;text-decoration:none;}.ushblggr:focus{color:#993A00;text-decoration:none;}";
+	
+	## EN:/ Social Media Color Codes Finish
+	## TR:/ Sosyal Medya Renk Kodları Bitiş
 ?>
