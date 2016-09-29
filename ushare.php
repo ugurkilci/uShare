@@ -5,7 +5,7 @@
 	 *
 	 * uShare, sosyal medya paylaşım kodlarını kolayca ulaşmanızı sağlar.
 	 *
-	 * Detaylar: {@link https://github.com/ushare}
+	 * Detaylar: {@link https://github.com/ugurkilci/uShare}
 	 *
 	 *******************
 	 *
@@ -13,7 +13,7 @@
 	 *
 	 * @ugurkilci Github
 	 * @ugur2nd Twitter
-	 * uShare 1.2
+	 * uShare 1.3
 	 */
 	
 	## TR:/ Sosyal Medya Paylaşım Kodları Başla
@@ -21,9 +21,9 @@
 	
 	function ushare($usharea) {
 		$usharea = trim($usharea);
-		$ushb = array('fb','twt','gpls','pin','lin','vk','okru','su','rddt','tmblr','blggr','i.n.f.o','ulnk');
+		$ushb = array(/*normal share codes >>*/'fb','twt','gpls','pin','lin','vk','okru','su','rddt','tmblr','blggr','usinfo','ulnk',/*new share codes >>*/ 'f:b','t:wt','g:pls','p:in','l:in','v:k','o:kru','s:u','r:ddt','t:mblr','b:lggr');
 		$ushc = array("http://www.facebook.com/share.php?u=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","https://twitter.com/home?status=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","https://plus.google.com/share?url=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","https://pinterest.com/pin/create/button/?url=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."&?ref=uShare","https://www.linkedin.com/shareArticle?mini=true&url=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."&source=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","http://vk.com/share.php?url=".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","http://ok.ru/share.php?url=".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","http://www.stumbleupon.com/submit?url=".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","http://www.reddit.com/submit?url=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","http://www.tumblr.com/share/link?url=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare","https://www.blogger.com/blog-this.g?u=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."&t=http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']."#ref=uShare",
-		"http://github.com/ushare#ref=uShare","http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI']);
+		"http://github.com/ushare#ref=uShare","http://".$_SERVER['HTTP_HOST']."".$_SERVER['REQUEST_URI'],"http://www.facebook.com/share.php?u=","https://twitter.com/home?status=","https://plus.google.com/share?url=","https://pinterest.com/pin/create/button/?url=","https://www.linkedin.com/shareArticle?mini=true&url=","http://vk.com/share.php?url=","http://ok.ru/share.php?url=","http://www.stumbleupon.com/submit?url=","http://www.reddit.com/submit?url=","http://www.tumblr.com/share/link?url=","https://www.blogger.com/blog-this.g?u=");
 		$ushislem= str_replace($ushb,$ushc,$usharea);
 		return $ushislem;
 	}
